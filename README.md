@@ -32,5 +32,5 @@
 
 ### AWSについて
 
-- [x] 私はAWS Certified Cloud Practitionerを持っています
-- [x] 私は[AWS Skill Builder](https://skillbuilder.aws)のAWS Cloud Practitioner Essentials(Japanese)を修了しています
+- [x] AWS Certified Cloud Practitionerを持っています
+- [x] [AWS Skill Builder](https://skillbuilder.aws)のAWS Cloud Practitioner Essentials(Japanese)を修了しています
