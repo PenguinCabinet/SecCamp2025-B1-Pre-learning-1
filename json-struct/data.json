@@ -1,0 +1,11 @@
+{
+    "data": "data",
+    "arr": [
+        "data1",
+        "data2"
+    ],
+    "map": {
+        "data1": 1,
+        "data2": 2
+    }
+}
